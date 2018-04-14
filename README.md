@@ -8,11 +8,9 @@ This script was written to compute cost basis in a last in first out order. This
 Seeing this has to do with the IRS and all, I'd be remiss if I didn't mention the following:
 
 1. I'm not a tax expert, and I did not consult a tax expert when writing this script. 
-2. Since I'm not a tax expert, I haven't accounted for various nuances, such as [wash sales](https://www.sec.gov/answers/wash.htm). 
-3. Your mileage may vary. As this [post](https://bravenewcoin.com/news/capital-gains-on-cryptocurrency-fifo-lifo-or-specific-identification/) points out, there's several options (FIFO, specified lot, LIFO, average, etc) for calculating your cost basis. LIFO worked well for my situation, and that's what this script does. If you extend this script to support some of the other methods, please drop me a note or do a pull request in this repo and I'll incorporate your changes.
+2. Your mileage may vary. As this [post](https://bravenewcoin.com/news/capital-gains-on-cryptocurrency-fifo-lifo-or-specific-identification/) points out, there's several options (FIFO, specified lot, LIFO, average, etc) for calculating your cost basis. LIFO worked well for my situation, and that's what this script does. If you extend this script to support some of the other methods, please drop me a note or do a pull request in this repo and I'll incorporate your changes.
+3. I haven't accounted for various nuances, such as [wash sales](https://www.sec.gov/answers/wash.htm). 
 4. You assume any and all risk with use of this script. I offer no warranties of any kind, express or implied. 
-# License
-This script is offered under an [MIT license](https://opensource.org/licenses/MIT). 
 
 # Usage
 You must have [Ruby](https://www.ruby-lang.org/en/) to run this script. See [here](https://www.ruby-lang.org/en/documentation/installation/) for installation instructions.
@@ -55,3 +53,6 @@ It's *important* that you save your result file and use it for future years' cos
 If you saved on taxes, find any bugs or have general feedback on this script, please tweet me at @krishna_nr. 
 
 Did the script save you money? Consider donating some or all of your tax savings to the [IRC](https://help.rescue.org/donate#webform-component-donation) or [ACLU](https://action.aclu.org/give/make-tax-deductible-gift-aclu-foundation). 
+
+# License
+This script is offered under an [MIT license](https://opensource.org/licenses/MIT). 
