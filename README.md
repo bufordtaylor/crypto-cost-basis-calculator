@@ -52,7 +52,7 @@ It's *important* that you save your result file and use it for future years' cos
 # Feedback
 If you saved on taxes, find any bugs or have general feedback on this script, please tweet me at @krishna_nr. 
 
-Did the script save you money? Consider donating some or all of your tax savings to the [IRC](https://help.rescue.org/donate#webform-component-donation) or [ACLU](https://action.aclu.org/give/make-tax-deductible-gift-aclu-foundation). 
+Did the script save you money? Consider donating some or all of your tax savings to the [IRC](https://help.rescue.org/donate#webform-component-donation), [ACLU](https://action.aclu.org/give/make-tax-deductible-gift-aclu-foundation) or another worthy cause. 
 
 # License
 This script is offered under an [MIT license](https://opensource.org/licenses/MIT). 
