@@ -52,6 +52,6 @@ Buy date, Asset, Units, Cost Basis, Sell Date, Sold Price, Gain/Loss, Gain/Loss 
 It's *important* that you save your result file and use it for future years' cost basis calculations. 
 
 # Feedback
-If you find any errors, bugs or have general feedback on this script, please tweet me at @krishna_nr. 
+If you saved on taxes, find any bugs or have general feedback on this script, please tweet me at @krishna_nr. 
 
-Did the script save you money? Please let me know. Also, consider donating some or all of your tax savings to the [IRC](https://help.rescue.org/donate#webform-component-donation) or [ACLU](https://action.aclu.org/give/make-tax-deductible-gift-aclu-foundation). 
+Did the script save you money? Consider donating some or all of your tax savings to the [IRC](https://help.rescue.org/donate#webform-component-donation) or [ACLU](https://action.aclu.org/give/make-tax-deductible-gift-aclu-foundation). 
