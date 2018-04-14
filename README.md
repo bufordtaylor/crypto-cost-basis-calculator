@@ -54,4 +54,4 @@ It's *important* that you save your result file and use it for future years' cos
 # Feedback
 If you find any errors, bugs or have general feedback on this script, please tweet me at @krishna_nr. 
 
-Did the script save you money? Tip me BTC at 3KiX8GbXVLz2vAJMbcL7VSqYjXA1721HZp. I'll donate all proceeds to the IRC.
+Did the script save you money? Tip me BTC at `3KiX8GbXVLz2vAJMbcL7VSqYjXA1721HZp`. I'll donate all proceeds to the IRC.
