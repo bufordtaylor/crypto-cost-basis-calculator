@@ -54,4 +54,4 @@ It's *important* that you save your result file and use it for future years' cos
 # Feedback
 If you find any errors, bugs or have general feedback on this script, please tweet me at @krishna_nr. 
 
-Did the script save you money? Tip me BTC at `3KiX8GbXVLz2vAJMbcL7VSqYjXA1721HZp`. I'll donate all proceeds to the IRC.
+Did the script save you money? Please let me know. Also, consider donating some or all of your tax savings to the [IRC](https://help.rescue.org/donate#webform-component-donation) or [ACLU](https://action.aclu.org/give/make-tax-deductible-gift-aclu-foundation). 
