@@ -1,4 +1,4 @@
-# Last in first out (LIFO) cost basis calculator for Coinbase
+# Last In First Out (LIFO) Cost Basis Calculator For Coinbase
 
 Coinbase's tax reporting [solution](https://blog.coinbase.com/new-tax-tools-on-coinbase-4d2598544d9e) as of today reports cost basis in a first in first out (FIFO) order. This isn't the best in a rising price environment and may result in you overpaying your taxes. 
 
