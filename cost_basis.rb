@@ -178,7 +178,7 @@ ascending_buys.each { |b|
   }
   # This are assets that are still available for future sells. Use these for future tax years.
   if b.remaining_units >= 0.00000001
-    print "#{b.buydate},#{b.currency},#{b.remaining_units},#{b.remaining_units * b.unit_price},-,-,-,-\n"
+    print "#{b.buydate},#{b.currency},#{b.remaining_units},#{b.remaining_units * b.unit_price},,,,\n"
   end
 }
 
