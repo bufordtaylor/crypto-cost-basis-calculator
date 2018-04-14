@@ -26,7 +26,9 @@ ruby cost_basis.rb <your coinbase transaction history file> > result.csv`
 ```
 
 # How to get your coinbase transaction history file?
-Here's how to get your coinbase transaction history file. Login to coinbase and navigate to "Tools -> "Tax Center". Then generate a new report as shown below and download the generated file. 
+Here's how to get your coinbase transaction history file. Login to coinbase and navigate to "Tools -> "Tax Center". Then generate a new report as shown below and download the generated file and use it on the terminal command line as shown above.
+
+If you edit the file in a program like Microsoft Excel, the formatting of the date can change and that'll throw my script off. So try and edit the doc in it's raw CSV file format as much as possible if you are making any edits to the coinbase transaction history file. Reasons to make edits to the coinbase transaction file could be because you have some transactions on GDAX or other exchanges that you want to consolidate into one transaction history file.
 
 ![Coinbase download instructions](https://github.com/nrkrishna/crypto-cost-basis-calculator/blob/master/coinbase_download_instructions.png)
 
@@ -41,10 +43,10 @@ For any buys that weren't sold, the above information is empty. In the sample be
 
 ```
 Buy date, Asset, Units, Cost Basis, Sell Date, Sold Price, Gain/Loss, Gain/Loss Type
-3/10/16,BTC,0.02546471,10.0,1/3/17,26.17,16.17,short term
-09/14/17,ETH,0.49453945,124.99,11/28/17,190.77,64.77,short term
-10/12/17,LTC,1.16035209,75.0,11/30/17,115.32,37.32,short term
-1/12/16,BTC,0.02164835,10.0,,,,
+3/10/16, BTC, 0.02546471, 10.0, 1/3/17, 26.17, 16.17, short term
+09/14/17, ETH, 0.49453945, 124.99, 11/28/17, 190.77, 64.77, short term
+10/12/17, LTC, 1.16035209, 75.0, 11/30/17, 115.32, 37.32, short term
+1/12/16, BTC, 0.02164835, 10.0, , , , 
 ```
 
 It's *important* that you save your result file and use it for future years' cost basis calculations. 
