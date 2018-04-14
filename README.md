@@ -21,14 +21,14 @@ To execute the script, open a terminal window and run the following command:
 
 ```
 
-ruby cost_basis.rb <your coinbase transaction history file> > result.csv`
+ruby cost_basis.rb [path to your coinbase transaction history file] > result.csv`
 
 ```
 
 # How to get your coinbase transaction history file?
 Here's how to get your coinbase transaction history file. Login to coinbase and navigate to "Tools -> "Tax Center". Then generate a new report as shown below and download the generated file and use it on the terminal command line as shown above.
 
-If you edit the file in a program like Microsoft Excel, the formatting of the date can change and that'll throw my script off. So try and edit the doc in it's raw CSV file format as much as possible if you are making any edits to the coinbase transaction history file. Reasons to make edits to the coinbase transaction file could be because you have some transactions on GDAX or other exchanges that you want to consolidate into one transaction history file.
+If you edit the file in a program like Microsoft Excel, the formatting of the date can change and that'll throw off the script. So try and edit the doc in it's raw CSV file format if you are making any edits to the coinbase transaction history file. Reasons to make edits to the coinbase transaction file could be because you have some transactions on other exchanges and you want to consolidate those into one transaction history file.
 
 ![Coinbase download instructions](https://github.com/nrkrishna/crypto-cost-basis-calculator/blob/master/coinbase_download_instructions.png)
 
@@ -52,4 +52,6 @@ Buy date, Asset, Units, Cost Basis, Sell Date, Sold Price, Gain/Loss, Gain/Loss 
 It's *important* that you save your result file and use it for future years' cost basis calculations. 
 
 # Feedback
-If you have any feedback on this script, please tweet me at @krishna_nr. 
+If you find any errors, bugs or have general feedback on this script, please tweet me at @krishna_nr. 
+
+Did the script save you money? Tip me BTC at 3KiX8GbXVLz2vAJMbcL7VSqYjXA1721HZp. I'll donate all proceeds to the IRC.
